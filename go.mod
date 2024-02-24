@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/Yamashou/gqlgenc v0.18.1
-	github.com/schollz/progressbar/v3 v3.14.1
+	github.com/schollz/progressbar/v3 v3.14.2
 )
 
 require (
